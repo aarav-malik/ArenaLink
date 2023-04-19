@@ -1,5 +1,5 @@
 # ArenaLink: A Next-Gen sports experience
-Welcome to my first Swift Project.
+Welcome to my first Swift Project. Sumbission for Swift Student Challenge 2023.
 
 ## Introduction
 
@@ -43,8 +43,4 @@ Works at any type of stadium as long as seats are in rows and seat numbers are a
 
 ## License
 My Awesome App is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-For questions or support, please contact [malikaarav09@gmail.com](mailto:malikaarav09@gmail.com?subject=[GitHub]%20ArenaLink)
-
 
