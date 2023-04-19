@@ -3,7 +3,7 @@ Welcome to my first Swift Project. Sumbission for Swift Student Challenge 2023.
 
 ## Introduction
 
-If have been to a sports event before you would have experienced being part of a human wave or even a tifosi. Human waves are really limiting
+If have been to a sports event before you would have experienced being part of a human wave or even a tifosi. Human waves are don't have much variety, it is the same thing again and again. 
 Revolutionizes fan interactions in sports venues through making the use of Tifos accessible. An entire interactive screen made up of thousands of phones at the disposal of event organisers.
 Works at any type of stadium as long as seats are in rows and seat numbers are assigned. This is not a fully developed, polished product. It is only a proof-of-concept.
 
@@ -13,11 +13,14 @@ Works at any type of stadium as long as seats are in rows and seat numbers are a
 - SwiftUI
 - UIKit
 - SceneKit
+- AVKit
+- AVFoundation
+- MobileCoreServicees
 
 ## Installation
 1. Clone the repository.
 2. Open the project in Xcode.
-3. Run the app on a simulator or on a connected device.
+3. Run the app on an iPhone 12/13/14 simulator or on a connected device.
 
 ## Usage
 1. Launch the app.
@@ -37,9 +40,10 @@ Works at any type of stadium as long as seats are in rows and seat numbers are a
 - Complete Tifo previews
 - Live news from Apple News api
 - Live scores
-- More details on match. Lineups, probabilities, highlights etc.
+- More details on match. Lineups, probabilities, stadium map, highlights etc.
 - Better UI/UX
 - Completion of QR Code scanner
+- Much more intra-stadium interaction features to be added
 
 ## License
 My Awesome App is released under the [MIT License](https://opensource.org/licenses/MIT).
