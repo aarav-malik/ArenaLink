@@ -46,5 +46,5 @@ Works at any type of stadium as long as seats are in rows and seat numbers are a
 - Much more intra-stadium interaction features to be added
 
 ## License
-My Awesome App is released under the [MIT License](https://opensource.org/licenses/MIT).
+ArenaLink is released under the [MIT License](https://opensource.org/licenses/MIT).
 
